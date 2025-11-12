@@ -167,11 +167,3 @@ Open the URL printed by Streamlit (usually `http://localhost:8501`) in your brow
 This repository does not include an explicit license by default. Add a `LICENSE` file if you intend to open source this project.
 
 ---
-
-## Contributors
-
-* Original author (you) — application code, prompt engineering, and Streamlit UI
-
----
-
-If you'd like, I can also generate a `requirements.txt` and a minimal `app.py` wrapper or a Dockerfile for running Ollama + Streamlit together. Just tell me which you'd prefer.

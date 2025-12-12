@@ -18,9 +18,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from sentence_transformers import CrossEncoder
 from streamlit.runtime.uploaded_file_manager import UploadedFile
 
-# ----------------------------- #
-# ENHANCED SYSTEM PROMPT
-# ----------------------------- #
+
 system_prompt = """
 You are an advanced AI assistant specializing in deep contextual reasoning and structured explanations.
 
@@ -352,6 +350,7 @@ def main():
 # ----------------------------- #
 if __name__ == "__main__":
     main()
+
 
 
 
